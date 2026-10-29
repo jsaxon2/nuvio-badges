@@ -453,7 +453,7 @@
       "groupId": "audio-tech",
       "name": "PCM",
       "pattern": "(?i)\\bl?pcm(?![a-z])",
-      "imageURL": "https://raw.githubusercontent.com/jsaxon2/nuvio-badges/main/Badges/pcm.png",
+      "imageURL": "https://raw.githubusercontent.com/jsaxon2/nuvio-badges/main/Badges/pcm_matched.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
