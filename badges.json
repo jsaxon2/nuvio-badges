@@ -530,7 +530,7 @@
       "id": "1-0-audio",
       "groupId": "audio-channels",
       "name": "1.0 Audio",
-      "pattern": "(?i)(?<![0-9])(?<![0-9]\\.)(1\\.0|mono)(?![0-9])",
+      "pattern": "(?i)(?<![0-9v])(?<![0-9]\\.)(1\\.0|mono)(?![0-9])",
       "imageURL": "https://raw.githubusercontent.com/jsaxon2/nuvio-badges/main/Badges/1_0_audio.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
