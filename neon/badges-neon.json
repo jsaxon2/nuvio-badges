@@ -953,7 +953,7 @@
       "id": "acodec-passthrough",
       "groupId": "audio-codec",
       "name": "Passthrough",
-      "pattern": "(?i)\bpass[\\s._-]?through\b",
+      "pattern": "(?i)\\bpass[\\s._-]?through\\b",
       "imageURL": "https://raw.githubusercontent.com/jsaxon2/nuvio-badges/main/neon/Badges/passthrough.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
